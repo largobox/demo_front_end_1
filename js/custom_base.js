@@ -1,10 +1,27 @@
+$(function() {
+  smoothScroll(300);
+});
+
+function smoothScroll (duration) {
+  $('a[href^="#"]').on('click', function(event) {
+
+      var target = $( $(this).attr('href') );
+
+      if( target.length ) {
+          event.preventDefault();
+          $('html, body').animate({
+              scrollTop: target.offset().top
+          }, duration);
+      }
+  });
+}
+
 $(window).scroll(function(){
 
   var scrl = $(this).scrollTop();
 
   if (  scrl > 68 ) {
     $('.top_menu').removeClass('tp_mnu_mrg_t');
-    console.log(scrl);
   } else {
     $('.top_menu').addClass('tp_mnu_mrg_t');    
   } 
