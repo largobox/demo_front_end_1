@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'chaparralproregular';
+	src: url('./chaparralproregular.eot');
+	src: local('chaparralproregular'), url('./chaparralproregular.woff') format('woff'), url('./chaparralproregular.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_4267">Text with this font applied</p> */
+.fontsforweb_fontid_4267 {
+	font-family: 'chaparralproregular' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

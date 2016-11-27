@@ -1,0 +1,87 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "ChaparralProRegular"; */
+@font-face {
+	font-family: "ChaparralProRegular";
+	src: url("../fonts/ChaparralProRegular/ChaparralProRegular.eot");
+	src: url("../fonts/ChaparralProRegular/ChaparralProRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ChaparralProRegular/ChaparralProRegular.woff") format("woff"),
+	url("../fonts/ChaparralProRegular/ChaparralProRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "QuicksandBold"; */
+@font-face {
+	font-family: "QuicksandBold";
+	src: url("../fonts/Quicksand/Quicksand-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "SourceSansPro"; */
+@font-face {
+	font-family: "SourceSansPro";
+	src: url("../fonts/SourceSansPro/SourceSansPro-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Oswald"; */
+@font-face {
+	font-family: "Oswald";
+	src: url("../fonts/Oswald/Oswald-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Amiko"; */
+@font-face {
+	font-family: "Amiko";
+	src: url("../fonts/Amiko/Amiko-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Pavanam"; */
+@font-face {
+	font-family: "Pavanam";
+	src: url("../fonts/Pavanam/Pavanam-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "TradeWinds"; */
+@font-face {
+	font-family: "TradeWinds";
+	src: url("../fonts/TradeWinds/TradeWinds-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "PathwayGothicOne"; */
+@font-face {
+	font-family: "PathwayGothicOne";
+	src: url("../fonts/PathwayGothicOne/PathwayGothicOne-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
